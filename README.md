@@ -92,3 +92,27 @@ print("hello world")
 #!/bin/sh
  echo "Hello World"
 ```
+
+### JavaScript Hello World Program
+
+```markdown
+console.log("Hello World!");
+```
+
+###  Go Hello World Program
+
+```markdown
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World!")
+}
+```
+
+### Swift Hello World Program
+
+```markdown
+print("Hello World!")
+```
