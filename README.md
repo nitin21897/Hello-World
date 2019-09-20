@@ -1,15 +1,11 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nitin21897/Hello-World/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+             Hello World Programs in different languages
 
 ### C Hello World Program
 
 
 
 ```markdown
-C Hello World Program
 
   #include<stdio.h>
   int main()
@@ -19,7 +15,17 @@ C Hello World Program
    }
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### C++ Hello World Program
+
+```markdown
+
+  #include<iostream>
+  int main()
+  {
+    std::cout<<"Hello-world";
+    return 0;
+   }
+```
 
 ### Jekyll Themes
 
