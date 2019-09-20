@@ -1,14 +1,14 @@
 ##                Hello World Programs in different languages
-![Hello World](https://github.com/nitin21897/Hello-World/blob/master/images.png)
+![](https://github.com/nitin21897/Hello-World/blob/master/images.png)
 
 ### C Hello World Program
 
 ```markdown
 
-  #include<stdio.h>
+  #include<stdio\.h>
   int main()
   {
-    printf("Hello-world");
+    printf("Hello-World");
     return 0;
    }
 ```
@@ -20,13 +20,12 @@
   #include<iostream>
   int main()
   {
-    std::cout<<"Hello-world";
+    std::cout<<"Hello-World";
     return 0;
    }
 ```
 
 ### C# Hello World Program
-
 
 ```markdown
 using System; 
@@ -38,7 +37,7 @@ namespace HelloWorldApp {
     class Nitin { 
           
         // Main Method 
-        static void Main(string[] args) { 
+        static void Main(string\[] args) { 
               
             // printing Hello World! 
             Console.WriteLine("Hello World!"); 
@@ -47,10 +46,48 @@ namespace HelloWorldApp {
 } 
 ```
 
-### Jekyll Themes
+### Java Hello World Program 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nitin21897/Hello-World/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+public class Hello {
+  	public static void main(String \[]args) {
+ 		System.out.println("Hello World");
+  	}
+ }```
+ 
+### Python Hello World Program
 
-### Support or Contact
+```markdown
+print "hello world"
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Ruby Hello World Program
+
+```markdown
+puts "Hello, world"
+```
+
+### Basic Hello World Program
+
+```markdown
+10 PRINT "Hello World!"
+```
+
+### PHP Hello World Program
+
+```markdown
+<?php echo “Hello World”; ?>
+```
+
+### R Hello World Program
+
+```markdown
+print("hello world")
+```
+
+### Bash Hello World Program
+
+```markdown
+#!/bin/sh
+ echo "Hello World"
+```
