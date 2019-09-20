@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-             Hello World Programs in different languages
+##                             Hello World Programs in different languages
 
 ### C Hello World Program
 
