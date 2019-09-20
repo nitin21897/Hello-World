@@ -5,7 +5,7 @@
 
 ```markdown
 
-  #include<stdio\.h>
+  #include<stdio.h>
   int main()
   {
     printf("Hello-World");
@@ -37,7 +37,7 @@ namespace HelloWorldApp {
     class Nitin { 
           
         // Main Method 
-        static void Main(string\[] args) { 
+        static void Main(string[] args) { 
               
             // printing Hello World! 
             Console.WriteLine("Hello World!"); 
@@ -53,7 +53,8 @@ public class Hello {
   	public static void main(String \[]args) {
  		System.out.println("Hello World");
   	}
- }```
+ }
+ ```
  
 ### Python Hello World Program
 
