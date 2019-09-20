@@ -1,5 +1,5 @@
 ##                Hello World Programs in different languages
-![Hello World](https://github.com/nitin21897/Hello-World/blob/master/images2.jpeg)
+![Hello World](https://github.com/nitin21897/Hello-World/blob/master/images.png)
 
 ### C Hello World Program
 
