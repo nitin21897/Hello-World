@@ -1,4 +1,4 @@
-![](https://github.com/nitin21897/Hello-World/blob/master/nitin.png)
+![](https://raw.githubusercontent.com/nitin21897/Hello-World/master/nitin.png)
 #             Hello World Programs in different languages
 
 
