@@ -117,4 +117,4 @@ func main() {
 ```markdown
 print("Hello World!")
 ```
-![Photo](https://github.com/nitin21897/Hello-World/blob/master/images2.jpeg)
+![Photo](https://raw.githubusercontent.com/nitin21897/Hello-World/master/images2.jpeg)
